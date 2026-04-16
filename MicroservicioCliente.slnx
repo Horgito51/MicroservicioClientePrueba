@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Microservicio.Clientes.Api/Microservicio.Clientes.API.csproj" Id="803c4dea-05f8-44a7-b164-0573d9660b8c" />
+    <Project Path="Microservicio.Clientes.Business/Microservicio.Clientes.Business.csproj" Id="4f8130a3-ce0b-4d47-850e-1e76c8ea5731" />
+    <Project Path="Microservicio.Clientes.DataAccess/Microservicio.Cientes.DataAccess.csproj" Id="7f78cd6b-a4f1-4dde-97be-4c87015d35dc" />
+    <Project Path="Microservicio.Clientes.DataManagment/Microservicio.Clientes.DataManagement.csproj" Id="f1edce0a-b005-4ea8-89dc-37e1ffa7084c" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
